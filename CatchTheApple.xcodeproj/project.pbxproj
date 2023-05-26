@@ -16,6 +16,7 @@
 		ECA3097C2A1FB8D500C26905 /* game-over.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ECA3097B2A1FB8D500C26905 /* game-over.mp3 */; };
 		ECA3097E2A1FBAC600C26905 /* SoundManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECA3097D2A1FBAC600C26905 /* SoundManager.swift */; };
 		ECA309802A1FBAEC00C26905 /* kids.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ECA3097F2A1FBAEC00C26905 /* kids.mp3 */; };
+		ECA309822A2088AC00C26905 /* roProntera.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ECA309812A2088AC00C26905 /* roProntera.mp3 */; };
 		ECED90142A1E934D00C75B9D /* CatchTheAppleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECED90132A1E934D00C75B9D /* CatchTheAppleApp.swift */; };
 		ECED90162A1E934D00C75B9D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECED90152A1E934D00C75B9D /* ContentView.swift */; };
 		ECED90182A1E934E00C75B9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECED90172A1E934E00C75B9D /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 		ECA3097B2A1FB8D500C26905 /* game-over.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "game-over.mp3"; sourceTree = "<group>"; };
 		ECA3097D2A1FBAC600C26905 /* SoundManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundManager.swift; sourceTree = "<group>"; };
 		ECA3097F2A1FBAEC00C26905 /* kids.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kids.mp3; sourceTree = "<group>"; };
+		ECA309812A2088AC00C26905 /* roProntera.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = roProntera.mp3; sourceTree = "<group>"; };
 		ECED90102A1E934D00C75B9D /* CatchTheApple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatchTheApple.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECED90132A1E934D00C75B9D /* CatchTheAppleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatchTheAppleApp.swift; sourceTree = "<group>"; };
 		ECED90152A1E934D00C75B9D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				ECA3097D2A1FBAC600C26905 /* SoundManager.swift */,
 				ECED90332A1F4CB100C75B9D /* FinishView.swift */,
 				ECED90172A1E934E00C75B9D /* Assets.xcassets */,
+				ECA309812A2088AC00C26905 /* roProntera.mp3 */,
 				ECA3097B2A1FB8D500C26905 /* game-over.mp3 */,
 				ECA3097F2A1FBAEC00C26905 /* kids.mp3 */,
 				ECA309792A1FB58600C26905 /* GoodJobYeye.m4a */,
@@ -166,6 +169,7 @@
 			files = (
 				ECED901B2A1E934E00C75B9D /* Preview Assets.xcassets in Resources */,
 				ECA309802A1FBAEC00C26905 /* kids.mp3 in Resources */,
+				ECA309822A2088AC00C26905 /* roProntera.mp3 in Resources */,
 				ECA309742A1FA67F00C26905 /* fire2.sks in Resources */,
 				ECA3096E2A1FA41000C26905 /* splat.mp3 in Resources */,
 				ECA3096C2A1FA36200C26905 /* kaching2.mp3 in Resources */,

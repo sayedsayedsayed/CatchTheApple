@@ -15,7 +15,7 @@ class SoundManager{
     var player : AVAudioPlayer?
     
     func PlayBGSound(){
-        guard let url = Bundle.main.url(forResource: "kids", withExtension: ".mp3") else {return}
+        guard let url = Bundle.main.url(forResource: "roProntera", withExtension: ".mp3") else {return}
         
         do{
             player = try AVAudioPlayer(contentsOf:url)
@@ -27,7 +27,7 @@ class SoundManager{
     }
     
     func StopBGSound(){
-        guard let url = Bundle.main.url(forResource: "kids", withExtension: ".mp3") else {return}
+        guard let url = Bundle.main.url(forResource: "roProntera", withExtension: ".mp3") else {return}
         
         do{
             player = try AVAudioPlayer(contentsOf:url)
